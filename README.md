@@ -1,5 +1,6 @@
 # cadr.hy
 
+[![Build Status](https://travis-ci.org/CknDev/cadr.hy.svg?branch=master)](https://travis-ci.org/CknDev/cadr.hy)
 
 Implementation of cadr in hy lang.
 
